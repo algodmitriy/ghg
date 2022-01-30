@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    padding:30px ;
+    background-color: aqua;
+     border:5px dotted black;
+}
+
+header img{
+    border:5px double black;
+}
+
+header a{
+    background-color: lightblue;
+      border:5px solid lawngreen;
+      border-radius: 15px ;
+}
